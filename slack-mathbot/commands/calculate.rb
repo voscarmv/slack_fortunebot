@@ -6,7 +6,7 @@ module SlackMathbot
       command 'calculate' do |client, data, _match|
         result = _match[:expression]
         #client.say(channel: data.channel, text: "#{result} !!!")
-        client.say(channel: data.channel, text: StackOverflowMod::Command.new.run("html css"))
+        client.say(channel: data.channel, text: StackOverflowMod::Command.new.run(result))
       end
     end
   end
