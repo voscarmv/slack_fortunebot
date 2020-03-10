@@ -1,0 +1,3 @@
+[submodule "stack-overflow-command-line"]
+	path = stack-overflow-command-line
+	url = https://github.com/voscarmv/stack-overflow-command-line
