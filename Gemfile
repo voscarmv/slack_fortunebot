@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'stackoverflow'
 gem 'rubocop'
 gem 'slack-ruby-bot'
 gem 'puma'
