@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'fortune_gem'
 gem 'stackoverflow'
 gem 'rubocop'
 gem 'slack-ruby-bot'

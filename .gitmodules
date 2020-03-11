@@ -1,3 +1,6 @@
 [submodule "stack-overflow-command-line"]
 	path = stack-overflow-command-line
 	url = https://github.com/voscarmv/stack-overflow-command-line
+[submodule "fortune_gem"]
+	path = fortune_gem
+	url = https://github.com/nodanaonlyzuul/fortune_gem
